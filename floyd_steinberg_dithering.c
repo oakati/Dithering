@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <math.h>
+
+#include "mona_lisa.h"
+
 #define WIDTH 320   
 #define HEIGHT 240   
 
